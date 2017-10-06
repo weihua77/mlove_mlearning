@@ -1,4 +1,4 @@
-#Two Kaggle competitions I participated in  
+# Two Kaggle competitions I participated in  
 I had quite a lot of fun and also learned a lot through solving real-world problems. So I created these and added detailed comments for my own future references and also want to share them with others who want to learn and practice some data wrangling and machine learning skills.
 
 Project 1 NY Taxi Trip duration prediciton (top 40%)  
