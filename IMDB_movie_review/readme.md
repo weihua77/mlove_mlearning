@@ -1,7 +1,7 @@
 ## 50,000 IMDB movie reviews, collected by Andrew Maas from Stanford Univ.
 
 Binary classification: reviews are classified into positive (1) and negative (0) groups. <br>
-Being positive is defined by a rating score >= 6, otherwise it's negative.<br><br>
+Being positive is defined by a rating score >= 7, if score <=4 it's negative.<br><br>
 
 Both training text and test text are labeled, both are balanced data sets.<br>
 25,000 in training data, ~50% positive.<br>
